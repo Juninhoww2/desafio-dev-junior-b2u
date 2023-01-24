@@ -1,0 +1,17 @@
+.car-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+.car-item {
+    background-color: #f111;
+    padding: 10px;
+    margin: 10px;
+    padding-left : 10px;
+    width: 300px;
+    text-align: center;
+    color: #333;
+}
